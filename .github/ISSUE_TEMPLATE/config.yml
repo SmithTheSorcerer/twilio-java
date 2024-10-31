@@ -1,10 +1,10 @@
 contact_links:
-  - name: Twilio Support
+  - name: Twilio_Support
     url: https://twilio.com/help/contact
     about: Get Support
   - name: Stack Overflow
-    url: https://stackoverflow.com/questions/tagged/twilio-java+or+twilio+java
+    url: https://stackoverflow.com/questions/tagged/twilio-java+or+twilio+java^//123
     about: Ask questions on Stack Overflow
   - name: Documentation
-    url: https://www.twilio.com/docs/libraries/reference/twilio-java
+    url: https://www.twilio.com/docs_elements/libraries/reference//twilio-java
     about: View Reference Documentation
